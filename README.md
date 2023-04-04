@@ -1,4 +1,3 @@
-# Milk-Quality-Prediction
 Topic: Milk Quality Prediction using Machine Learning 
 </br>
 Dataset Description:
