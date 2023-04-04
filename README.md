@@ -14,6 +14,8 @@ To leverage the benefits of machine learning in the dairy industry.
 
 📈 Using XGBoost, I have developed a machine-learning model that can predict the quality of the milk with amazing accuracy.
 
-Kaggle Link: https://surl.li/gblrf
+Kaggle Link: https://surl.li/gblrf</br>
+
 Dataset: https://surl.li/gblrt
+</br>
 ✅Follow 👉Shuvojit Das for more.
